@@ -1,5 +1,8 @@
-//reset
-@import 'normalise';
+// Modules and Variables
+@import "partials/base";
 
-//structure
-@import 'grid';
+// Partials
+@import "partials/reset";
+@import "partials/typography";
+@import "partials/buttons";
+@import "partials/grids";
